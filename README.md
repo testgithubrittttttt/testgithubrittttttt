@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Sharma</h1>
 <h3 align="center">A passionate frontend and Software developer</h3>
-<img align ="right" alt = "coding" width = 400 src = ![image](https://github.com/testgithubrittttttt/Dhruv-Sharma/assets/134517753/da1d835d-56ee-46a8-b437-0dc173536206)>
+<img align ="right" alt = "coding" width = 400 src = "![image](https://github.com/testgithubrittttttt/Dhruv-Sharma/assets/134517753/3abab40c-c75b-44bf-a228-e24db89ac90a)
+)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=testgithubrittttttt&label=Profile%20views&color=0e75b6&style=flat" alt="testgithubrittttttt" /> </p>
 
