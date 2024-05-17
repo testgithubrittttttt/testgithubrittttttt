@@ -102,6 +102,6 @@ Join me on LinkedIn, where I share my insights, victories, and occasional setbac
 
 
 ### How to reach me :mailbox:
-<a href="https://linkedin.com/in/www.linkedin.com/in/dhruv-sharma-b79191249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dhruv-sharma-b79191249" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhruv-sharma-b79191249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dhruv-sharma-b79191249" height="30" width="40" /></a>
 
 
